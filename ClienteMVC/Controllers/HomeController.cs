@@ -12,6 +12,8 @@ namespace ClienteMVC.Controllers
         {
         //Esta es una pruebas
             return View();
+
+
         }
 
         public ActionResult About()
