@@ -1,0 +1,14 @@
+C:\Miguel\Demos\Sol.DemoJenkins\PruebasUnitarias\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Miguel\Demos\Sol.DemoJenkins\PruebasUnitarias\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Miguel\Demos\Sol.DemoJenkins\PruebasUnitarias\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Miguel\Demos\Sol.DemoJenkins\PruebasUnitarias\bin\Debug\PruebasUnitarias.dll
+C:\Miguel\Demos\Sol.DemoJenkins\PruebasUnitarias\bin\Debug\PruebasUnitarias.pdb
+C:\Miguel\Demos\Sol.DemoJenkins\PruebasUnitarias\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Miguel\Demos\Sol.DemoJenkins\PruebasUnitarias\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Miguel\Demos\Sol.DemoJenkins\PruebasUnitarias\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Miguel\Demos\Sol.DemoJenkins\PruebasUnitarias\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Miguel\Demos\Sol.DemoJenkins\PruebasUnitarias\obj\Debug\PruebasUnitarias.csprojAssemblyReference.cache
+C:\Miguel\Demos\Sol.DemoJenkins\PruebasUnitarias\obj\Debug\PruebasUnitarias.csproj.CoreCompileInputs.cache
+C:\Miguel\Demos\Sol.DemoJenkins\PruebasUnitarias\obj\Debug\PruebasUnitarias.csproj.CopyComplete
+C:\Miguel\Demos\Sol.DemoJenkins\PruebasUnitarias\obj\Debug\PruebasUnitarias.dll
+C:\Miguel\Demos\Sol.DemoJenkins\PruebasUnitarias\obj\Debug\PruebasUnitarias.pdb
