@@ -16,7 +16,7 @@ namespace PruebasUnitarias
 
             int resultado = valor1 + valor2;
 
-            Assert.IsTrue(resp != resultado, "Algo Salio mal");
+            Assert.IsTrue(resp == resultado, "Algo Salio mal");
 
         }
     }
