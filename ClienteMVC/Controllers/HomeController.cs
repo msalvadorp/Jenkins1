@@ -10,7 +10,10 @@ namespace ClienteMVC.Controllers
     {
         public ActionResult Index()
         {
+        //Esta es una pruebas
             return View();
+
+
         }
 
         public ActionResult About()
